@@ -37,6 +37,8 @@ My main goal is to learn how to write codes in JavaScript and become a professio
 ### Tools
 - VS Code
 
+![](http://i.imgur.com/OUkLi.gif)
+
 ### Code Example
 Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 
