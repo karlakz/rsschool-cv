@@ -1,2 +1,3 @@
 # rsschool-cv
-CV
+
+https://karlakz.github.io/rsschool-cv/cv
